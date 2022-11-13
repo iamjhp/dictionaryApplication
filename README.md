@@ -4,7 +4,7 @@
 ![Image](demo.png)
 
 #### 📝 Description
-A simple dictionary application created with Java
+A simple flashcard application created with Java
 
 #### 🛠️ Built with
  * Java
